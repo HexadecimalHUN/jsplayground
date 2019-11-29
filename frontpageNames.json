@@ -1,0 +1,50 @@
+{
+  "credit1" : {
+    "name" : "Josh",
+    "height" : "165",
+    "lang" : "English",
+    "id" : "2"
+  },
+  "credit2" : {
+    "name" : "Magda",
+    "height" : "170",
+    "lang" : "Russian",
+    "id" : "1"
+  },
+  "credit3" : {
+    "name": "Feri",
+    "height": "195",
+    "lang": "Hungarian",
+    "id": "3"
+  },
+  "credit4" : {
+    "name" : "Balint",
+    "height" : "165",
+    "lang" : "English",
+    "id" : "4"
+  },
+  "credit5" : {
+    "name" : "Vera",
+    "height" : "170",
+    "lang" : "Russian",
+    "id" : "5"
+  },
+  "credit6" : {
+    "name": "Jozsi",
+    "height": "195",
+    "lang": "Hungarian",
+    "id": "6"
+  },
+  "credit7" : {
+    "name" : "Mate",
+    "height" : "165",
+    "lang" : "English",
+    "id" : "7"
+  },
+  "credit8" : {
+    "name" : "Steve",
+    "height" : "170",
+    "lang" : "Russian",
+    "id" : "8"
+  }
+}
